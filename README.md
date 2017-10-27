@@ -15,7 +15,7 @@ Made for GIMP 2.8
   #### Only for current user
   1.Open terminal
   2. Copy Downloaded folder
-  * cp -r ~/Downloads/Gimp-Theme/Gimp-Arc-Dark-Theme ~/.gimp-2.8/themes/
+  * cp -r ~/Downloads/Gimp-Arc-Dark-Theme/Gimp-Arc-Dark-Theme ~/.gimp-2.8/themes/
   3. Change theme in gimp
   * Edit -> Preferences -> Themes
   
@@ -23,12 +23,12 @@ Made for GIMP 2.8
   1.Open terminal
   2. Copy Downloaded folder
   * U need to be administrator for this
-  * sudo cp -r ~/Downloads/Gimp-Theme/Gimp-Arc-Dark-Theme /usr/share/gimp/*/themes/
+  * sudo cp -r ~/Downloads/Gimp-Arc-Dark-Theme/Gimp-Arc-Dark-Theme /usr/share/gimp/*/themes/
   3. Change theme in gimp
   * Edit -> Preferences -> Themes
   
 ## For Mac OS X
-  1. Copy downloaded folder with theme (Gimp-Arc-Dark-Theme) to 
+  1. Copy downloaded folder with theme (Gimp-Arc-Dark-Theme/Gimp-Arc-Dark-Theme) to 
   * ~/Library/Application Support/GIMP/2.8/themes
   * or
   * ~/.gimp-2.8/themes
@@ -36,8 +36,8 @@ Made for GIMP 2.8
   * Edit -> Preferences -> Themes
     
 ## For Windows
-  1. Copy downloaded theme (Gimp-Arc-Dark-Theme) folder to
-  * C:\Users<your user name>.gimp-2.8\themes
+  1. Copy downloaded theme (Gimp-Arc-Dark-Theme\Gimp-Arc-Dark-Theme) folder to
+  * C:\Users\username\.gimp-2.8\themes
   2. Change theme in gimp
   * Edit -> Preferences -> Themes
   
