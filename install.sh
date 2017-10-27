@@ -8,8 +8,7 @@ if [ "$i" = "1" ]
 then
     echo
     echo Files will be copied to ~/.gimp-2.8/themes/
-    cp -r ./Gimp-Arc-Dark-Theme/Gimp-Arc-Dark-Theme ~/.gimp-2.8/themes/
-    rm ~/.gimp-2.8/themes/Gimp-Arc-Dark-Theme/install.sh
+    cp -r ./Gimp-Arc-Dark-Theme ~/.gimp-2.8/themes/
         if [ -d ~/.gimp-2.8/themes/Gimp-Arc-Dark-Theme ]
     then
         echo
@@ -27,8 +26,7 @@ then
     echo 
     echo Files will be copied to /usr/share/gimp/*/themes/
     echo U need to be an administrator to copy files there
-    sudo cp -r ./Gimp-Arc-Dark-Theme/Gimp-Arc-Dark-Theme /usr/share/gimp/*/themes/
-    sudo rm /usr/share/gimp/*/themes/Gimp-Arc-Dark-Theme/install.sh
+    sudo cp -r ./Gimp-Arc-Dark-Theme /usr/share/gimp/*/themes/
 
     if [ -d /usr/share/gimp/*/themes/Gimp-Arc-Dark-Theme ]
     then
