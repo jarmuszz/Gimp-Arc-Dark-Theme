@@ -47,5 +47,7 @@ Made for GIMP 2.8
   
   
 ## Screenshots
+![Alt text](/img/screenshot.png?raw=true)
+![Alt text](/img/loading.png?raw=true)
 
 
